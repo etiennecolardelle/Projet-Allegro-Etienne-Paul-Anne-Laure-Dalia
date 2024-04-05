@@ -1,3 +1,0 @@
-C:/Users/etncl/Downloads/Info/Projet Overcooked/projet allegro/cmake-build-debug/CMakeFiles/untitled3.dir
-C:/Users/etncl/Downloads/Info/Projet Overcooked/projet allegro/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/etncl/Downloads/Info/Projet Overcooked/projet allegro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
