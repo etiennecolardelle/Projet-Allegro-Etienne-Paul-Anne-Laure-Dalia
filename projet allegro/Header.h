@@ -42,6 +42,7 @@ typedef struct {
 
 void affichage_image();
 void deplacement();
+void menu();
 
 #endif //UNTITLED3_HEADER_H
 
