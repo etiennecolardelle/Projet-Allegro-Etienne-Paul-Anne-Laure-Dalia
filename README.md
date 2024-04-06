@@ -5,4 +5,6 @@ Faire les bordures de la map
 faire les deplacements du personnages 1 et du personnages 2 
 faire les diffenres niveau 
 
-repartition des tâches 
+repartition des tâches : 
+menu(code) : Paul et Etienne 
+image chercher : Paul et Etienne 
