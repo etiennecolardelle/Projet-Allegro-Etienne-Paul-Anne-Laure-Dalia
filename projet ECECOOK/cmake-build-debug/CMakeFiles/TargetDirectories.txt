@@ -1,3 +1,0 @@
-C:/cours/info/dossier Allegro/projet ECECOOK/cmake-build-debug/CMakeFiles/projet_ECECOOK.dir
-C:/cours/info/dossier Allegro/projet ECECOOK/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/cours/info/dossier Allegro/projet ECECOOK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
