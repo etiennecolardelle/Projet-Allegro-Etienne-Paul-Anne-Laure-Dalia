@@ -8,5 +8,8 @@ faire les diffenres niveau
 repartition des tâches : 
 -menu(code) : Paul et Etienne 
 -image menu: Paul et Etienne 
+-niveau : image (ETienne) code (Paul)
+-Regle : paul et Etienne 
+
 
 
