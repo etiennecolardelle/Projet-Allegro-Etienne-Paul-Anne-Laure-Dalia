@@ -2,6 +2,7 @@
 -faire en sorte de pouvoir jouer a 2 FAIT 
 -pouvoir selection le nombre de joeur et choisir les noms depuis le jeu FAIT 
 -Faire les bordures de la map FAIT
+-Faire les regles FAIT
 -faire les deplacements du personnages 1 et du personnages 2 FAIT 
 -faire les diffenres niveau FAIT 
 -faire la poubelle 
