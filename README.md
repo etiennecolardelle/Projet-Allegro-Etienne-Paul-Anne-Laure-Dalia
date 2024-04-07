@@ -15,6 +15,7 @@ repartition des tâches :
 -niveau : image (ETienne) code (Paul)
 -Regle : paul et Etienne 
 -objet : Paul et Etienne 
+-Livrable : Dalya 
 
 
 
