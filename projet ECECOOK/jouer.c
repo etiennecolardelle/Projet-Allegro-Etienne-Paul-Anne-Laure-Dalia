@@ -47,28 +47,28 @@ int jouer() {
 
         // Gestion du mouvement du joueur 1
         if (key[KEY_W] && key[KEY_D]) {
-            joueur1.dx = 2;
-            joueur1.dy = -2;
+            joueur1.dx = 4;
+            joueur1.dy = -4;
         } else if (key[KEY_W] && key[KEY_A]) {
-            joueur1.dx = -2;
-            joueur1.dy = -2;
+            joueur1.dx = -4;
+            joueur1.dy = -4;
         } else if (key[KEY_S] && key[KEY_D]) {
-            joueur1.dx = 2;
-            joueur1.dy = 2;
+            joueur1.dx = 4;
+            joueur1.dy = 4;
         } else if (key[KEY_S] && key[KEY_A]) {
-            joueur1.dx = -2;
-            joueur1.dy = 2;
+            joueur1.dx = -4;
+            joueur1.dy = 4;
         } else if (key[KEY_W]) {
             joueur1.dx = 0;
-            joueur1.dy = -2;
+            joueur1.dy = -4;
         } else if (key[KEY_S]) {
             joueur1.dx = 0;
-            joueur1.dy = 2;
+            joueur1.dy = 4;
         } else if (key[KEY_A]) {
-            joueur1.dx = -2;
+            joueur1.dx = -4;
             joueur1.dy = 0;
         } else if (key[KEY_D]) {
-            joueur1.dx = 2;
+            joueur1.dx = 4;
             joueur1.dy = 0;
         } else {
             joueur1.dx = 0;
@@ -77,28 +77,28 @@ int jouer() {
 
         // Gestion du mouvement du joueur 2
         if (key[KEY_UP] && key[KEY_RIGHT]) {
-            joueur2.dx = 2;
-            joueur2.dy = -2;
+            joueur2.dx = 4;
+            joueur2.dy = -4;
         } else if (key[KEY_UP] && key[KEY_LEFT]) {
-            joueur2.dx = -2;
-            joueur2.dy = -2;
+            joueur2.dx = -4;
+            joueur2.dy = -4;
         } else if (key[KEY_DOWN] && key[KEY_RIGHT]) {
-            joueur2.dx = 2;
-            joueur2.dy = 2;
+            joueur2.dx = 4;
+            joueur2.dy = 4;
         } else if (key[KEY_DOWN] && key[KEY_LEFT]) {
-            joueur2.dx = -2;
-            joueur2.dy = 2;
+            joueur2.dx = -4;
+            joueur2.dy = 4;
         } else if (key[KEY_UP]) {
             joueur2.dx = 0;
-            joueur2.dy = -2;
+            joueur2.dy = -4;
         } else if (key[KEY_DOWN]) {
             joueur2.dx = 0;
-            joueur2.dy = 2;
+            joueur2.dy = 4;
         } else if (key[KEY_LEFT]) {
-            joueur2.dx = -2;
+            joueur2.dx = -4;
             joueur2.dy = 0;
         } else if (key[KEY_RIGHT]) {
-            joueur2.dx = 2;
+            joueur2.dx = 4;
             joueur2.dy = 0;
         } else {
             joueur2.dx = 0;
