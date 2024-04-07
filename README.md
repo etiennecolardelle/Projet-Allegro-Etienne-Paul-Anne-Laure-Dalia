@@ -10,6 +10,7 @@ repartition des tâches :
 -image menu: Paul et Etienne 
 -niveau : image (ETienne) code (Paul)
 -Regle : paul et Etienne 
+-objet : Paul et Etienne 
 
 
 
