@@ -1,3 +1,0 @@
-C:/Users/etncl/Downloads/projet_ECECOOK/projet ECECOOK/cmake-build-debug/CMakeFiles/projet_ECECOOK.dir
-C:/Users/etncl/Downloads/projet_ECECOOK/projet ECECOOK/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/etncl/Downloads/projet_ECECOOK/projet ECECOOK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
