@@ -18,6 +18,6 @@ repartition des tâches :
 -Poubelle : Paul et Etienne 
 -Livrable : Dalya 
 
-okok
+
 
 
